@@ -2,7 +2,9 @@
 AVR MCU, ISP pin# table, easy design aid   
 by xiaolaba, last edit 2014-06-22   
      
-     
+![mappping.PNG](mappping.PNG)  
+  
+
 [ ATMEGA2560_ISP_PIN.PNG ]( PNG/ATMEGA2560_ISP_PIN.PNG )  
 ![ PNG/ATMEGA2560_ISP_PIN.PNG ]( PNG/ATMEGA2560_ISP_PIN.PNG )   
     
